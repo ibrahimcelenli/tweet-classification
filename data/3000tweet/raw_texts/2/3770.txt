@@ -1,0 +1,1 @@
+Normalde küçük harflerle sms atan Turkcell'in, Fatura tutarý yada son ödeme tarihi bilgisi için attýðý smslerin büyük harfle olmasý.

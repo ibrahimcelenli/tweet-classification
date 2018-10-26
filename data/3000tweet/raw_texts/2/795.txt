@@ -1,0 +1,1 @@
+hizmet kalitelerini degerlendirmeniz icin sms atiyor ve 8090'I aramanizi soyluyor. Surekli 1 verirseniz, hat dusuyor. Hizmete bak!
