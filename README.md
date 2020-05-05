@@ -13,5 +13,7 @@ Dataset : [3000 Turkish Tweets for sentiment analysis (3 classes)](http://www.ke
             glob2                     0.5
             regex                     2017.4.5 
 
-Presentation : [Makine Öğrenmesi Uygulamalarında Metin Madenciliği](https://github.com/ibrahimcelenli/tweet-classification/blob/master/Makine%20%C3%96%C4%9Frenmesi%20Uygulamalar%C4%B1nda%20Metin%20Madencili%C4%9Fi.pdf)
+1. Presentation : [Makine Öğrenmesi Uygulamalarında Metin Madenciliği](https://github.com/ibrahimcelenli/tweet-classification/blob/master/Makine%20%C3%96%C4%9Frenmesi%20Uygulamalar%C4%B1nda%20Metin%20Madencili%C4%9Fi.pdf)
+
+2. Presentation : [Uygulamalı Metin Madenciliği](https://github.com/ibrahimcelenli/tweet-classification/blob/master/Uygulamal%C4%B1%20Metin%20Madencili%C4%9Fi.pdf)
 
